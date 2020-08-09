@@ -5,12 +5,3 @@ Svetlana Kiritchenko (svetlana.kiritchenko@nrc-cnrc.gc.ca) and Saif M. Mohammad 
 
 When auditing an NLP system for potential bias, one must be cognizant of the context in which the algorithm is being used, and to the extent possible probe the full intersectional nature of personal identity. The code in this project allows one to extend the EEC by adding new name:race/ethnicity combinations, as well as gender-neutral pronouns. We do not provide the corpus itself, just the means to extend it. 
 
-
-### Quick Guide
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Stuff here
-
-```
